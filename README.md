@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustav02&label=Profile%20views&color=0e75b6&style=flat" alt="kaustav02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustav02" alt="kaustav02" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Kaustav00472640?t=EEsA_9WWTG7WPlu0SFmwRw&s=08"><img src="https://github-profile-trophy.vercel.app/?username=kaustav02" alt="kaustav02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kaustav mondal" target="blank"><img src="https://img.shields.io/twitter/follow/kaustav mondal?logo=twitter&style=for-the-badge" alt="kaustav mondal" /></a> </p>
 
