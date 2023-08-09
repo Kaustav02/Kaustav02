@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**Kaustav02/Kaustav02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Kaustav 😎😎</h1>
 <h3 align="center">Full Stack Web Developer proficient in Data Structure and Algorithms , Machine Learning</h3>
 
@@ -33,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/kaustav-mondal-b5a65223b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustav-mondal-b5a65223b" height="30" width="40" /></a>
 <a href="https://fb.com/kaustav mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaustav mondal" height="30" width="40" /></a>
 <a href="https://instagram.com/__k_a_u_s_t_a_v__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__k_a_u_s_t_a_v__" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kaustav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kaustav07" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/kaustav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kaustav07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kaustav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaustav01" height="30" width="40" /></a>
 </p>
 
