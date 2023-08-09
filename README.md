@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustav02&label=Profile%20views&color=0e75b6&style=flat" alt="kaustav02" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Kaustav00472640?t=EEsA_9WWTG7WPlu0SFmwRw&s=08"><img src="https://github-profile-trophy.vercel.app/?username=kaustav02" alt="kaustav02" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kaustav mondal" target="blank"><img src="https://img.shields.io/twitter/follow/kaustav mondal?logo=twitter&style=for-the-badge" alt="kaustav mondal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustav02" alt="kaustav02" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Vision and Machine Learning**
 
@@ -13,12 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kaustav mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustav mondal" height="30" width="40" /></a>
+<a href="https://twitter.com/kaustav00472640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustav00472640" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaustav-mondal-b5a65223b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustav-mondal-b5a65223b" height="30" width="40" /></a>
-<a href="https://fb.com/kaustav mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaustav mondal" height="30" width="40" /></a>
-<a href="https://instagram.com/__k_a_u_s_t_a_v__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__k_a_u_s_t_a_v__" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/kaustav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kaustav07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaustav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaustav01" height="30" width="40" /></a>
+<a href="https://fb.com/kaustav.mondal.3701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaustav.mondal.3701" height="30" width="40" /></a>
+<a href="https://instagram.com/__k_a_u_s_t_a_v___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__k_a_u_s_t_a_v___" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kaustav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kaustav07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/take a look at kaustav mondal (@kaustav00472640): https://twitter.com/kaustav00472640?t=eesa_9wwtg7wplu0sfmwrw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="take a look at kaustav mondal (@kaustav00472640): https://twitter.com/kaustav00472640?t=eesa_9wwtg7wplu0sfmwrw&s=08" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kaustavmoa14l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaustavmoa14l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
